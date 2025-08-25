@@ -54,7 +54,7 @@ I navigated to the web root:
 cd /var/www/html
 ```
 
-Using `nano`, I created a custom `index.html` for my personal portfolio (see [`portfolio/index.html`](portfolio/index.html)).  
+Using `nano`, I created a custom `index.html` for my personal portfolio (see [`index.html`](index.html)).  
 I set the correct file permissions so Apache could serve my files:
 
 ```bash
