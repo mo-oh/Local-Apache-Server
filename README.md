@@ -77,8 +77,7 @@ I then opened a browser on my host machine and entered the VM’s IP, successful
 
 ### 4️⃣ Admire my first webpage
 
-![Portfolio Screenshot](screenshots/portfolio.png)
-> *(Add your screenshot here!)*
+![Portfolio Screenshot](portfolio.png)
 
 ---
 
